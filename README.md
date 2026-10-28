@@ -19,6 +19,7 @@ Line 2
 - Item 2
     - Sub-item1
     - Sub-item2
+    - Sub-item3
 
 1. First
 2. Second
